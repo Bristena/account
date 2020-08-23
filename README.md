@@ -8,7 +8,7 @@ The endpoint can be used via Swagger
 ## Prerequisites
     1. Java version 11
     2. Gradle 6.5
-    3. MySQL Server 8.0
+    3. MySQL Server 8.2
 
 ## Running the application
 
